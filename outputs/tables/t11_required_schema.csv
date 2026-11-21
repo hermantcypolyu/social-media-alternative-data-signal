@@ -1,0 +1,16 @@
+﻿field,dtype,definition,used_for
+post_id,string,Stable platform post id. Primary key.,"dedupe, join"
+author_id,string,"Stable account id, not display name.",author-level clustering
+author_followers_pit,int,"Followers at decision time, not current.",reach weighting
+created_at_utc,datetime64[UTC],"Publication timestamp, UTC.",event ordering
+collected_at_utc,datetime64[UTC],When the scraper observed it.,availability lag
+text_raw,string,"Original post body, untruncated.",NLP features
+views_pit,int,"Views at collected_at, not final.",attention weight
+"likes_pit, comments_pit, reposts_pit",int,Engagement at collected_at.,attention weight
+ticker,string,Resolved security identifier (exchange:ticker).,price join
+ticker_confidence,float,"Mapping confidence in [0,1].",mapping audit
+direction_label,int,"Manual stance in {-1,0,1} with provenance.",signal sign
+label_source,string,Who/what produced the label.,reproducibility
+label_timestamp_utc,datetime64[UTC],When the label was created.,audit trail
+pit_universe_flag,bool,Was the ticker tradable and listed at that date?,survivorship
+forward_return_5d,float,Return from next open to close+5d.,evaluation target

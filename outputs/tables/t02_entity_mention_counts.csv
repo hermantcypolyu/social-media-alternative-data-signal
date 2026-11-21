@@ -1,0 +1,20 @@
+﻿ticker,aliases,n_posts_mentioning,pct_of_corpus
+AAPL,"AAPL, Apple, 苹果, 蘋果",4,3.4
+BABA,"BABA, Alibaba, 阿里巴巴, 阿里, 千问, 千問, Qwen",4,3.4
+TENCENT,"Tencent, 腾讯, 騰訊",3,2.5
+GOOGL,"GOOGL, Google, 谷歌",2,1.7
+XIAOMI,"Xiaomi, 小米",2,1.7
+BTC,"BTC, Bitcoin, 比特币, 比特幣",1,0.8
+MU,"MU, Micron, 美光",1,0.8
+PLTR,"PLTR, Palantir",1,0.8
+TM,"Toyota, 丰田, 豐田",1,0.8
+XPEV,"XPeng, 小鹏, 小鵬",1,0.8
+AMD,"AMD, 超威, 超微",0,0.0
+AMZN,"AMZN, Amazon, 亚马逊, 亞馬遜",0,0.0
+AVGO,"AVGO, Broadcom, 博通",0,0.0
+ETH,"ETH, Ethereum, 以太坊",0,0.0
+META,"META, Meta, Facebook",0,0.0
+MSFT,"MSFT, Microsoft, 微软, 微軟",0,0.0
+NVDA,"NVDA, NVIDIA, 英伟达, 英偉達",0,0.0
+TSLA,"TSLA, Tesla, 特斯拉",0,0.0
+TSM,"TSM, TSMC, 台积电, 台積電",0,0.0

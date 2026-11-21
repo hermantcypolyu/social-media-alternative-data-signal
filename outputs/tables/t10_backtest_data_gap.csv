@@ -1,0 +1,8 @@
+﻿required_field,why_it_is_needed,status
+post_id,stable identifier to de-duplicate and to join on,MISSING
+author_id,to separate a new voice from a repeating one,MISSING
+created_at_utc,the only way to place a post before or after a price move,MISSING
+collected_at_utc,to compute availability lag and avoid using a post too early,MISSING
+engagement_at_decision,"views/likes measured point-in-time, not as a final total",MISSING
+ticker_mapping,"a security identifier, not free text",MISSING
+prices_pit,point-in-time OHLCV for the mapped tickers,MISSING

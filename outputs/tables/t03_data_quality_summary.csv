@@ -1,0 +1,16 @@
+﻿check,value,note
+rows loaded,119,matches supplied file
+columns (canonical),4,"nickname, profile_url, views, latest post"
+missing values (raw fields),0,none
+exact duplicate rows,0,none
+exact duplicate cleaned texts,0,none
+duplicate nicknames,1,"same person, two handles; kept"
+views parsed successfully,119,all rows
+views set to NaN by parser,0,invalid values are never coerced to 0
+blank cleaned texts,0,none
+posts with a URL,7,URLs had inserted spaces upstream; recovered
+"post length, median (chars)",119,"median coincides with n=119 by chance; max 263, truncated by export"
+near-duplicate clusters (0.92),0,ok
+timestamps available,0,blocks any historical backtest
+post identifiers available,0,blocks de-duplication over time
+price data supplied,0,blocks any return calculation

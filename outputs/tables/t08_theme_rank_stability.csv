@@ -1,0 +1,6 @@
+﻿variant,spearman_vs_full,n_themes
+S0_relevance_attention,0.5769,13
+S1_direction_only,0.9378,13
+S2_direction_confidence,0.8871,13
+S3_plus_attention,0.8077,13
+S4_plus_novelty,1.0,13

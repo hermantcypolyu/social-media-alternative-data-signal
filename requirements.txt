@@ -1,0 +1,35 @@
+# Social-Media Alternative-Data Signal — pinned to the verified working environment.
+#
+# Tested on: Python 3.10.12, Linux, NVIDIA RTX A6000 (driver 580.196.07, CUDA 13.0).
+# The GPU is used only for batch embedding generation; every reported result is
+# reproducible on CPU (slower, same numbers up to floating-point noise).
+#
+# Pin strategy: exact pins for the analysis stack so results are byte-reproducible.
+# Notebook tooling is left on compatible ranges because it does not affect results.
+
+# --- core analysis stack (exact pins) ---------------------------------------
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+matplotlib==3.10.9
+
+# --- pretrained multilingual sentence encoder (frozen feature extractor) ----
+sentence-transformers==6.3.0
+transformers==5.20.2
+
+# PyTorch build must match the local CUDA runtime.
+# CUDA 13.0 (as tested):  pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cu130
+# CPU-only alternative:   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1
+
+# --- notebook execution (compatible ranges; not result-affecting) -----------
+jupyter>=1.1,<2.0
+notebook>=7.6,<8.0
+nbconvert>=7.17,<8.0
+ipykernel>=7.0,<8.0
+nbformat>=5.11,<6.0
+
+# --- model download ---------------------------------------------------------
+# sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 is fetched from
+# Hugging Face on first run (~470 MB) and cached locally. No API key is needed.

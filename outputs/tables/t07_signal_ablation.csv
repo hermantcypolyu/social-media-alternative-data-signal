@@ -1,0 +1,6 @@
+﻿variant,direction,confidence,novelty,attention,n_relevant_posts,nonzero_relevant_signals,mean_row_signal,std_row_signal,n_themes_covered,theme_dispersion
+S0_relevance_attention,False,False,False,True,21,21,1.026709,0.212695,13,0.174323
+S1_direction_only,True,False,False,False,21,19,0.238095,0.94365,13,0.660225
+S2_direction_confidence,True,True,False,False,21,19,0.109524,0.455692,13,0.313534
+S3_plus_attention,True,True,False,True,21,19,0.140613,0.465321,13,0.335809
+S4_plus_novelty,True,True,True,True,21,19,0.09535,0.271859,13,0.207928

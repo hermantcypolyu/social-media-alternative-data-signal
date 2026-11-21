@@ -1,0 +1,20 @@
+﻿item,value
+random seed,42
+python,3.10.12
+numpy,2.2.6
+pandas,2.3.3
+scikit-learn,1.7.2
+matplotlib,3.10.9
+embedding model,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+embedding device,cuda
+embedding dim,384
+torch,2.14.1+cu130
+sentence-transformers,6.3.0
+TF-IDF config,"char_wb ngram=(2,4), min_df=2, max_df=0.95, sublinear, l2"
+classifier,"LogisticRegression C=1.0, class_weight=balanced, lbfgs"
+validation,"RepeatedStratifiedKFold 5x5, shuffle, seed=42"
+target,"tradable_relevance (0/1), 21 positives of 119"
+attention alpha,0.2
+attention cap,"[0.5, 1.5] with z clipped to +/-3"
+price data,none supplied
+timestamps,none supplied

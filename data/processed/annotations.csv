@@ -1,0 +1,120 @@
+row_id,tradable_relevance,asset_or_theme,direction,confidence,novelty,content_type,horizon,label_note,label_source,label_version,needs_manual_review
+0,1,AI_SECTOR,-1,0.35,0.7,analysis,medium_term,API resale fraud with 46% adulteration statistic; negative for trust in paid AI API market; no single listed name,ai_rubric_v1,1.0,0
+1,0,NONE,0,0.0,0.35,opinion,unclear,LeCun data-volume analogy; no market claim,ai_rubric_v1,1.0,0
+2,0,NONE,0,0.0,0.3,opinion,unclear,Prompt vs context framing; tool methodology,ai_rubric_v1,1.0,0
+3,0,NONE,0,0.0,0.2,personal,unclear,Design/animation enthusiasm,ai_rubric_v1,1.0,0
+4,0,NONE,0,0.0,0.4,personal,unclear,Museum app showcase; no business claim,ai_rubric_v1,1.0,0
+5,0,NONE,0,0.0,0.25,personal,unclear,Author's tutorial reach complaint,ai_rubric_v1,1.0,0
+6,0,NONE,0,0.0,0.3,opinion,unclear,Freelance labour-market anecdote,ai_rubric_v1,1.0,0
+7,0,NONE,0,0.0,0.45,promotion,unclear,macOS clipboard tool description,ai_rubric_v1,1.0,0
+8,0,NONE,0,0.0,0.25,opinion,unclear,Workplace productivity anecdote,ai_rubric_v1,1.0,0
+9,0,NONE,0,0.0,0.1,promotion,unclear,Course promo with link,ai_rubric_v1,1.0,0
+10,0,NONE,0,0.0,0.3,tutorial,unclear,Translation skill instructions,ai_rubric_v1,1.0,0
+11,0,NONE,0,0.0,0.3,personal,unclear,Job interview experience,ai_rubric_v1,1.0,0
+12,0,NONE,0,0.0,0.35,tutorial,unclear,Install workaround,ai_rubric_v1,1.0,0
+13,1,SEMI_SECTOR,1,0.6,0.75,analysis,medium_term,Memory price increase and Mac Studio 512GB option removed; bullish memory supply-demand read,ai_rubric_v1,1.0,0
+14,0,NONE,0,0.0,0.25,opinion,unclear,Multi-agent skill description,ai_rubric_v1,1.0,0
+15,0,NONE,0,0.0,0.4,tutorial,unclear,Version regression config fix,ai_rubric_v1,1.0,0
+16,0,NONE,0,0.0,0.3,personal,unclear,Plugin star-count observation,ai_rubric_v1,1.0,0
+17,0,NONE,0,0.0,0.35,tutorial,unclear,Model config share,ai_rubric_v1,1.0,0
+18,1,BABA,-1,0.55,0.6,analysis,medium_term,Qwen benchmark inflation and Alibaba hiring criticism; negative read on Alibaba AI competitiveness,ai_rubric_v1,1.0,0
+19,0,NONE,0,0.0,0.1,other,unclear,Japanese reaction post,ai_rubric_v1,1.0,0
+20,0,NONE,0,0.0,0.55,news,unclear,"Anthropic labour-market report; private issuer, no listed proxy claimed",ai_rubric_v1,1.0,0
+21,0,NONE,0,0.0,0.2,other,unclear,Audience prompt,ai_rubric_v1,1.0,0
+22,1,TENCENT,-1,0.6,0.6,analysis,medium_term,Tencent Cloud Coding Plan pricing vs Alibaba; explicit lagging-competitiveness claim,ai_rubric_v1,1.0,0
+23,0,NONE,0,0.0,0.2,personal,unclear,API credit request,ai_rubric_v1,1.0,0
+24,0,NONE,0,0.0,0.25,personal,unclear,New model trial reaction,ai_rubric_v1,1.0,0
+25,1,AAPL,-1,0.4,0.7,news,medium_term,MacBook Neo capped at 8GB by A18 Pro; product-spec criticism,ai_rubric_v1,1.0,0
+26,0,NONE,0,0.0,0.6,opinion,unclear,New job-role thesis; no asset,ai_rubric_v1,1.0,0
+27,0,NONE,0,0.0,0.35,news,unclear,Community milestone,ai_rubric_v1,1.0,0
+28,1,XPEV,-1,0.4,0.35,opinion,medium_term,Mocking XPeng CEO autonomous-driving boast,ai_rubric_v1,1.0,0
+29,0,NONE,0,0.0,0.65,news,unclear,OpenAI benchmark figures; private issuer,ai_rubric_v1,1.0,0
+30,0,NONE,0,0.0,0.5,opinion,unclear,OpenAI vs Anthropic tool preference; both private,ai_rubric_v1,1.0,0
+31,0,NONE,0,0.0,0.3,personal,unclear,Client automation anecdote,ai_rubric_v1,1.0,0
+32,0,NONE,0,0.0,0.45,news,unclear,Open-source multi-agent repo,ai_rubric_v1,1.0,0
+33,0,NONE,0,0.0,0.35,news,unclear,Model availability in third-party client,ai_rubric_v1,1.0,0
+34,0,NONE,0,0.0,0.25,opinion,unclear,Comparison to computer virus,ai_rubric_v1,1.0,0
+35,0,NONE,0,0.0,0.2,promotion,unclear,Enthusiastic endorsement; no market framing,ai_rubric_v1,1.0,0
+36,0,NONE,0,0.0,0.3,personal,unclear,Fast mode usage,ai_rubric_v1,1.0,0
+37,0,NONE,0,0.0,0.2,personal,unclear,Hardware gadget mention,ai_rubric_v1,1.0,0
+38,0,NONE,0,0.0,0.3,tutorial,unclear,Architecture diagram workflow,ai_rubric_v1,1.0,0
+39,0,NONE,0,0.0,0.4,news,unclear,Config repo release,ai_rubric_v1,1.0,0
+40,0,NONE,0,0.0,0.45,opinion,unclear,Hassabis education view,ai_rubric_v1,1.0,0
+41,1,AAPL,1,0.4,0.4,opinion,medium_term,Predicts Apple entry-level positioning will sell well; demand claim without evidence,ai_rubric_v1,1.0,0
+42,0,NONE,0,0.0,0.2,opinion,unclear,Installation gatekeeping opinion,ai_rubric_v1,1.0,0
+43,1,GOOGL,1,0.45,0.7,news,medium_term,Google official CLI launch; ecosystem expansion,ai_rubric_v1,1.0,0
+44,0,NONE,0,0.0,0.4,tutorial,unclear,Sentiment-analysis workflow,ai_rubric_v1,1.0,0
+45,1,AI_SECTOR,0,0.3,0.7,analysis,medium_term,"Explicit inference pricing comparison; cheaper tokens, mixed for vendor margins",ai_rubric_v1,1.0,0
+46,0,NONE,0,0.0,0.45,personal,unclear,Kernel/emulator tinkering,ai_rubric_v1,1.0,0
+47,0,NONE,0,0.0,0.55,news,unclear,Research repo description,ai_rubric_v1,1.0,0
+48,0,NONE,0,0.0,0.15,promotion,unclear,Limited-time free offer,ai_rubric_v1,1.0,0
+49,0,NONE,0,0.0,0.55,analysis,unclear,Skill information-gain argument; no asset,ai_rubric_v1,1.0,0
+50,0,NONE,0,0.0,0.2,opinion,unclear,Vague enthusiasm,ai_rubric_v1,1.0,0
+51,0,NONE,0,0.0,0.2,personal,unclear,Laptop purchase,ai_rubric_v1,1.0,0
+52,0,NONE,0,0.0,0.3,opinion,unclear,Adoption-scepticism opinion,ai_rubric_v1,1.0,0
+53,0,NONE,0,0.0,0.35,promotion,unclear,Tool endorsement,ai_rubric_v1,1.0,0
+54,0,NONE,0,0.0,0.4,personal,unclear,Setup log mentioning exchange wallets; no market claim,ai_rubric_v1,1.0,0
+55,0,NONE,0,0.0,0.3,opinion,unclear,Sparse/dense analogy,ai_rubric_v1,1.0,0
+56,0,NONE,0,0.0,0.25,promotion,unclear,Product convenience claim,ai_rubric_v1,1.0,0
+57,0,NONE,0,0.0,0.35,other,unclear,Creative-writing demo,ai_rubric_v1,1.0,0
+58,0,NONE,0,0.0,0.65,news,unclear,OpenAI model launch; private issuer,ai_rubric_v1,1.0,0
+59,0,NONE,0,0.0,0.3,opinion,unclear,City comparison for digital nomads,ai_rubric_v1,1.0,0
+60,0,NONE,0,0.0,0.35,tutorial,unclear,Website walkthrough,ai_rubric_v1,1.0,0
+61,0,NONE,0,0.0,0.45,personal,unclear,Side-business anecdote,ai_rubric_v1,1.0,0
+62,1,PLTR,0,0.3,0.7,news,medium_term,Thiel meets Japanese PM on tech cooperation; Palantir customer list; no stance,ai_rubric_v1,1.0,0
+63,0,NONE,0,0.0,0.45,opinion,unclear,Tool capability enthusiasm,ai_rubric_v1,1.0,0
+64,1,BTC,1,0.5,0.1,promotion,long_term,"Bitcoin past-return hype; well-known lore, bullish framing, no new information",ai_rubric_v1,1.0,0
+65,1,CRYPTO_SECTOR,1,0.4,0.7,news,medium_term,Claims first blockchain Nasdaq listing starts crypto era; promotional framing,ai_rubric_v1,1.0,0
+66,0,NONE,0,0.0,0.2,promotion,unclear,AI tool list,ai_rubric_v1,1.0,0
+67,0,NONE,0,0.0,0.35,tutorial,unclear,Version rollback advice,ai_rubric_v1,1.0,0
+68,0,NONE,0,0.0,0.4,tutorial,unclear,A-share analysis deployment guide; explicitly not investment advice,ai_rubric_v1,1.0,0
+69,0,NONE,0,0.0,0.55,news,unclear,Huawei laptop specs; unlisted issuer,ai_rubric_v1,1.0,0
+70,0,NONE,0,0.0,0.3,opinion,unclear,Ecosystem reflection,ai_rubric_v1,1.0,0
+71,0,NONE,0,0.0,0.45,tutorial,unclear,SDK commentary,ai_rubric_v1,1.0,0
+72,1,XIAOMI,1,0.45,0.7,news,medium_term,Xiaomi phone-side agent launch; product expansion,ai_rubric_v1,1.0,0
+73,0,NONE,0,0.0,0.4,personal,unclear,Diary analysis anecdote,ai_rubric_v1,1.0,0
+74,0,NONE,0,0.0,0.25,promotion,unclear,Clickbait prompt pack,ai_rubric_v1,1.0,0
+75,0,NONE,0,0.0,0.15,promotion,unclear,App free-tier promo,ai_rubric_v1,1.0,0
+76,0,NONE,0,0.0,0.3,personal,unclear,Learning-habit reflection,ai_rubric_v1,1.0,0
+77,0,NONE,0,0.0,0.05,other,unclear,Follow-for-follow spam,ai_rubric_v1,1.0,0
+78,0,NONE,0,0.0,0.3,promotion,unclear,Tool recommendation with prompt pack,ai_rubric_v1,1.0,0
+79,0,NONE,0,0.0,0.35,opinion,unclear,Education-industry anecdote,ai_rubric_v1,1.0,0
+80,1,CHINA_TECH,1,0.5,0.5,analysis,long_term,"Reads two-sessions report: tech self-sufficiency primary, domestic demand secondary",ai_rubric_v1,1.0,0
+81,1,TM,1,0.5,0.7,news,medium_term,Toyota 200k price with Huawei/Momenta content; value-for-money claim,ai_rubric_v1,1.0,0
+82,0,NONE,0,0.0,0.25,personal,unclear,Creator-revenue complaint,ai_rubric_v1,1.0,0
+83,0,NONE,0,0.0,0.3,personal,unclear,Tool comparison complaints,ai_rubric_v1,1.0,0
+84,0,NONE,0,0.0,0.45,analysis,unclear,Model-vs-distribution thesis; no investable asset,ai_rubric_v1,1.0,0
+85,0,NONE,0,0.0,0.35,opinion,unclear,Vibe-coding app observation,ai_rubric_v1,1.0,0
+86,0,NONE,0,0.0,0.4,personal,unclear,Client case anecdote,ai_rubric_v1,1.0,0
+87,1,BABA,1,0.4,0.55,personal,medium_term,Friend used Qwen Coding Plan to ship a site; adoption anecdote,ai_rubric_v1,1.0,0
+88,0,NONE,0,0.0,0.35,tutorial,unclear,Security config instructions,ai_rubric_v1,1.0,0
+89,0,NONE,0,0.0,0.45,tutorial,unclear,Browser-agent context savings,ai_rubric_v1,1.0,0
+90,1,CHINA_TECH,-1,0.4,0.3,opinion,medium_term,"China AI censorship remark; very short, stance implied",ai_rubric_v1,1.0,0
+91,0,NONE,0,0.0,0.15,promotion,unclear,Software promo,ai_rubric_v1,1.0,0
+92,0,NONE,0,0.0,0.3,opinion,unclear,Bot-reply observation,ai_rubric_v1,1.0,0
+93,0,NONE,0,0.0,0.25,personal,unclear,Video generation demo,ai_rubric_v1,1.0,0
+94,0,NONE,0,0.0,0.25,personal,unclear,Editor workflow change,ai_rubric_v1,1.0,0
+95,1,SEMI_SECTOR,1,0.6,0.8,analysis,medium_term,US imports from Taiwan exceed China on AI hardware demand; tariff and supply-chain read,ai_rubric_v1,1.0,0
+96,0,NONE,0,0.0,0.55,news,unclear,Cursor ranking; private issuer,ai_rubric_v1,1.0,0
+97,0,NONE,0,0.0,0.3,opinion,unclear,Autonomous-weapons speculation; no listed proxy,ai_rubric_v1,1.0,0
+98,0,NONE,0,0.0,0.55,news,unclear,Ecosystem revenue tracker; no investable asset,ai_rubric_v1,1.0,0
+99,0,NONE,0,0.0,0.6,news,unclear,OpenAI demo; private issuer,ai_rubric_v1,1.0,0
+100,0,NONE,0,0.0,0.4,promotion,unclear,Frontend skill endorsement,ai_rubric_v1,1.0,0
+101,0,NONE,0,0.0,0.45,other,unclear,Novelty project,ai_rubric_v1,1.0,0
+102,1,TENCENT,1,0.45,0.7,news,medium_term,Tencent QClaw beta with WeChat integration,ai_rubric_v1,1.0,0
+103,1,TENCENT,1,0.4,0.35,opinion,medium_term,Second-hand report of same Tencent WeChat install; low novelty,ai_rubric_v1,1.0,0
+104,0,NONE,0,0.0,0.3,opinion,unclear,Programmer vs non-programmer habit,ai_rubric_v1,1.0,0
+105,0,NONE,0,0.0,0.35,other,unclear,Joke product observation,ai_rubric_v1,1.0,0
+106,0,NONE,0,0.0,0.25,personal,unclear,Factory open-source anecdote,ai_rubric_v1,1.0,0
+107,0,NONE,0,0.0,0.3,tutorial,unclear,Cheap-access workaround; no market claim,ai_rubric_v1,1.0,0
+108,1,XIAOMI,-1,0.65,0.4,opinion,medium_term,Calls Miclaw a rebranded API and Xiaomi execution outdated,ai_rubric_v1,1.0,0
+109,0,NONE,0,0.0,0.45,other,unclear,Money-laundering story,ai_rubric_v1,1.0,0
+110,0,NONE,0,0.0,0.55,news,unclear,Andrew Ng tool launch,ai_rubric_v1,1.0,0
+111,0,NONE,0,0.0,0.25,personal,unclear,Design-tool workflow,ai_rubric_v1,1.0,0
+112,0,NONE,0,0.0,0.15,personal,unclear,Quota reset reaction,ai_rubric_v1,1.0,0
+113,0,NONE,0,0.0,0.2,personal,unclear,Site maintenance note,ai_rubric_v1,1.0,0
+114,0,NONE,0,0.0,0.6,news,unclear,Arbitrage-bot story; no investable claim,ai_rubric_v1,1.0,0
+115,0,NONE,0,0.0,0.3,opinion,unclear,Language-choice rant,ai_rubric_v1,1.0,0
+116,0,NONE,0,0.0,0.35,tutorial,unclear,Log-driven debugging tip,ai_rubric_v1,1.0,0
+117,0,NONE,0,0.0,0.55,news,unclear,Open-source tool trending,ai_rubric_v1,1.0,0
+118,0,NONE,0,0.0,0.05,other,unclear,Hashtag-only art post,ai_rubric_v1,1.0,0
